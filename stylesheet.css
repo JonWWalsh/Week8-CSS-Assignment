@@ -1,0 +1,102 @@
+body {
+  background-color: rgb(170, 224, 231);
+  margin: 0;
+}
+
+.h1home {
+border-style: inset;
+border-color:green;
+text-align: center;
+margin: 0px;
+margin-bottom: 1px;
+}
+
+#head2 {
+    text-decoration: underline;
+    color: rgb(116, 221, 253);
+}
+.homeimg {
+  border-style: solid;
+  border-color: indigo;
+}
+
+a:visited {
+    color: green;
+  }
+
+  input:focus {
+    background-color: rgb(255, 153, 0);
+  }
+
+#divfooter {
+  background-color: rgb(162, 162, 165);
+}
+
+#head5 {
+  color: rgb(75, 42, 42);
+}
+
+ul {
+  font-style: italic;
+  font-weight: 1000;
+}
+
+.links {
+  float: right;
+  margin: 1rem;
+}
+
+.p1 {
+  font-family: Papyrus, Copperplate;
+  font-size: 1.1rem;
+}
+
+.hHome {
+  color: #858537;
+}
+
+.hikehead {
+  text-align: center;
+  background-color: green;  
+}
+
+.hb1 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+}
+
+.hbh2 {
+  font-family: Constantia, Times New Roman;
+}
+
+.hbp {
+  text-align: center;
+  font: Impact;
+  font-size: 1.6rem;
+  color:rgb(194, 122, 13)
+}
+
+.b2 {
+  background-color:royalblue;
+}
+
+.wr1 {
+  border-style: solid;
+  border-color: black;
+  height: auto;
+  border-left: hidden;
+  border-right: hidden;
+}
+
+.wr {
+  text-align: center;
+  color: rgb(221, 172, 66);
+  text-shadow: 2px 2px 5px black;
+}
+
+.wrp {
+  font-size: 1.2rem;
+  font: Franklin Gothic Heavy;
+}
